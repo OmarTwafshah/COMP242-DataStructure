@@ -1,0 +1,52 @@
+The Top ten Student is : Student GPA Is = 99.5 , And Seat Number Is = 26007281, And The Branch Is = Literary 
+Student GPA Is = 99.3 , And Seat Number Is = 12022709, And The Branch Is = Literary 
+Student GPA Is = 99.3 , And Seat Number Is = 18015705, And The Branch Is = Literary 
+Student GPA Is = 99.2 , And Seat Number Is = 18016165, And The Branch Is = Literary 
+Student GPA Is = 99.1 , And Seat Number Is = 12024187, And The Branch Is = Literary 
+Student GPA Is = 99.1 , And Seat Number Is = 13019616, And The Branch Is = Literary 
+Student GPA Is = 99.1 , And Seat Number Is = 14029516, And The Branch Is = Literary 
+Student GPA Is = 99.1 , And Seat Number Is = 14029634, And The Branch Is = Literary 
+Student GPA Is = 99.1 , And Seat Number Is = 14029778, And The Branch Is = Literary 
+Student GPA Is = 99.1 , And Seat Number Is = 18015743, And The Branch Is = Literary 
+Student GPA Is = 99.1 , And Seat Number Is = 26006768, And The Branch Is = Literary 
+Student GPA Is = 98.9 , And Seat Number Is = 16031207, And The Branch Is = Literary 
+Student GPA Is = 98.9 , And Seat Number Is = 18015315, And The Branch Is = Literary 
+Student GPA Is = 98.9 , And Seat Number Is = 19018112, And The Branch Is = Literary 
+Student GPA Is = 98.8 , And Seat Number Is = 11020560, And The Branch Is = Literary 
+Student GPA Is = 98.8 , And Seat Number Is = 12022874, And The Branch Is = Literary 
+Student GPA Is = 98.8 , And Seat Number Is = 14029748, And The Branch Is = Literary 
+Student GPA Is = 98.8 , And Seat Number Is = 20001906, And The Branch Is = Literary 
+Student GPA Is = 98.8 , And Seat Number Is = 22004390, And The Branch Is = Literary 
+Student GPA Is = 98.8 , And Seat Number Is = 22005050, And The Branch Is = Literary 
+Student GPA Is = 98.7 , And Seat Number Is = 10025407, And The Branch Is = Literary 
+Student GPA Is = 98.7 , And Seat Number Is = 11021054, And The Branch Is = Literary 
+Student GPA Is = 98.6 , And Seat Number Is = 10025722, And The Branch Is = Literary 
+Student GPA Is = 98.6 , And Seat Number Is = 12023092, And The Branch Is = Literary 
+Student GPA Is = 98.6 , And Seat Number Is = 14029349, And The Branch Is = Literary 
+Student GPA Is = 98.6 , And Seat Number Is = 22005164, And The Branch Is = Literary 
+Student GPA Is = 98.6 , And Seat Number Is = 26006743, And The Branch Is = Literary 
+Student GPA Is = 98.6 , And Seat Number Is = 28027380, And The Branch Is = Literary 
+Student GPA Is = 98.5 , And Seat Number Is = 18015919, And The Branch Is = Literary 
+Student GPA Is = 98.5 , And Seat Number Is = 22005204, And The Branch Is = Literary 
+Student GPA Is = 98.5 , And Seat Number Is = 26006848, And The Branch Is = Literary 
+Student GPA Is = 98.5 , And Seat Number Is = 26007189, And The Branch Is = Literary 
+Student GPA Is = 98.5 , And Seat Number Is = 26007243, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 10025556, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 12022742, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 12023169, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 12023551, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 14029138, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 16030983, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 16031022, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 18014931, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 18016552, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 18017047, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 18017133, And The Branch Is = Literary 
+Student GPA Is = 98.4 , And Seat Number Is = 28027002, And The Branch Is = Literary 
+
+The mean is : 73.32565089548267
+The Mode is 73.6 ِ repeat 70
+The variance is 145.4307507458092
+The standard deviation is 12.059467266252238
+The Student Gpa is 72.9 And The Seat Number is 25011516
+The Number Of Student is 10807 And The Percentage of Students Whom Grade Above Or Equal A Specific Grade is0.577759957230687
